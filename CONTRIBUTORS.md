@@ -202,6 +202,12 @@
 - Bio: Web Developer. Elixir & Clojure Lover.
 - Github: https://github.com/rphl-snts
 
+### Marwa Sayed
+A passionate Full Stack Web Developer with a keen eye for detail and a love for creative problem-solving
+- Photo: 
+- Location: Afghanistan, Kabul
+- Bio: A passionate Full Stack Web Developer with a keen eye for detail and a love for creative problem-solving
+- Github: https://github.com/marwa-sayed12
 ### Jamie Lo
 - Photo: https://avatars2.githubusercontent.com/u/24484166?s=460&v=4
 - Location: United States
